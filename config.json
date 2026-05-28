@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasefetch",
+        "uuid": 8765440,
+        "checksum": "hlijdn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
